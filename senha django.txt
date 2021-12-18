@@ -1,0 +1,4 @@
+senha do django
+
+admin
+F123456f
