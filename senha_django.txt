@@ -1,0 +1,7 @@
+senha do django
+
+flavio.felix
+admin123
+
+lis.lis
+lis123456
